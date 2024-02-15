@@ -1,0 +1,23 @@
+body
+{
+   display: flex;
+   background-color: #CCC;
+}
+
+.centralizado {
+    text-align: center;
+}
+
+.card{
+    width: 200px;
+    height: 300px;
+    background-color: #FFFFFF;
+    margin: 10px 20px;
+    padding: 5px;
+}
+.valor{
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:#FF0000;
+   
+}
